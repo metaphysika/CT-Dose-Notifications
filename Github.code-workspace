@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "PDF-Extract---Late-Dose-Badges",
+			"path": "../LateDoseBadgeReport/PDF-Extract---Late-Dose-Badges"
+		}
+	],
+	"settings": {}
+}
